@@ -6,3 +6,5 @@
 (code.ino: This is the program for the ESP32 microcontroller, which enables the entire system to function.) 
 
 (simulation.png: representing the connection of the IoT system)
+
+(12326 Technical Report: Technical Report for the system )
